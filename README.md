@@ -99,6 +99,7 @@ http://127.0.0.1:5000/
 # Author
 
 Anugraha AL
+
 B.Sc Physics Graduate | Data Analyst |
 
 # Future Enhancements
