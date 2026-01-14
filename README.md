@@ -5,50 +5,66 @@ It analyzes user-provided text and predicts whether the sentiment is Positive or
 
 # Features
 
-. Text preprocessing and cleaning
+* Text preprocessing and cleaning
 
-. TF-IDF feature extraction
+* TF-IDF feature extraction
 
-. Logistic Regression machine learning model
+* Logistic Regression machine learning model
 
-. Flask-based web application
+* Flask-based web application
 
-. Real-time sentiment prediction via browser
+* Real-time sentiment prediction via browser
 
 # Tech Stack
 
-. Python
+* Python
 
-. Pandas
+* Pandas
 
-. Scikit-learn
+* Scikit-learn
 
-. Flask
+* Flask
 
-. HTML / CSS
+* HTML / CSS
 
 # Project Structure
 sentiment-analysis-flask-app/
+
 │
 ├── data/
+
 │   └── test (1).csv
+
 │
+
 ├── src/
+
     ├── __init__.py
+    
 │   ├── preprocess.py
+
 │   └── train_model.py
+
 │
 ├── templates/
+
 │   └── index.html
+
 │
 ├── app.py
+
 ├── model.pkl
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── test.ipynb
+
 └── vectorizer.pkl
 
 # How to Run the Project
+
 * Install Dependencies
 pip install -r requirements.txt
 
@@ -70,13 +86,13 @@ http://127.0.0.1:5000/
 
 # Use Case
 
-Customer feedback analysis
+* Customer feedback analysis
 
-Product review sentiment detection
+* Product review sentiment detection
 
-Social media text analysis
+* Social media text analysis
 
-Beginner-friendly NLP & Flask project
+* Beginner-friendly NLP & Flask project
 
 # Author
 
@@ -85,10 +101,10 @@ B.Sc Physics Graduate | Data Analyst |
 
 # Future Enhancements
 
-Support for neutral sentiment
+* Support for neutral sentiment
 
-Deep learning models (LSTM / BERT)
+* Deep learning models (LSTM / BERT)
 
-Deployment on cloud (Render / AWS / Heroku)
+* Deployment on cloud (Render / AWS / Heroku)
 
-Improved UI with Bootstrap
+* Improved UI with Bootstrap
