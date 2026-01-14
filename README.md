@@ -46,11 +46,13 @@ sentiment-analysis-flask-app/
 │   └── train_model.py
 
 │
+
 ├── templates/
 
 │   └── index.html
 
 │
+
 ├── app.py
 
 ├── model.pkl
